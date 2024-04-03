@@ -13,6 +13,7 @@ PyTorch Lightning v: 2.2.1
 ```
 
 #### Data description
+Pickle files were generated with ```pandas v 2.1.1```
 | Data | Description |
 | ------ | ------ |
 | train.pkl.gz | Training |
